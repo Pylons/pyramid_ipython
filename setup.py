@@ -24,7 +24,7 @@ setup(
     author_email='michael@merickel.org',
     url='https://github.com/Pylons/pyramid_ipython',
     classifiers=[
-        "Development Status :: 3 - Beta",
+        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "Framework :: Pyramid",
         "License :: Repoze Public License",
