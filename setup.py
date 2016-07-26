@@ -17,14 +17,13 @@ entry_points = {
 
 setup(
     name='pyramid_ipython',
-    version='0.1',
+    version='0.2',
     description='pyramid ipython pshell',
     long_description=README,
     author='Michael Merickel',
     author_email='michael@merickel.org',
     url='https://github.com/Pylons/pyramid_ipython',
     classifiers=[
-        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "Framework :: Pyramid",
         "License :: Repoze Public License",
