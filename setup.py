@@ -21,7 +21,7 @@ setup(
     description='pyramid ipython pshell',
     long_description=README,
     author='Michael Merickel',
-    author_email='michael@merickel.org',
+    author_email='pylons-discuss@googlegroups.com',
     url='https://github.com/Pylons/pyramid_ipython',
     classifiers=[
         "Intended Audience :: Developers",
